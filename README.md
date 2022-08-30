@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel_Mq
 - 👀 Junior at College of Software, Beihang University
-- 🌱 I’m currently learning Web
+- 🌱 I’m currently learning Java&Algorithms
 - 📫 email:mengqiaoyuanhe0311@163.com
 
 <!---
